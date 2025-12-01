@@ -32,7 +32,7 @@ import (
 
 func main() {
     // Create a new client
-    client := odin.ODINMarketFeedClient()
+    client := odin.NewODINMarketFeedClient()
     
     // Set up event handlers
     client.OnOpen = func() {
