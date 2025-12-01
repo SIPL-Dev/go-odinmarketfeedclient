@@ -13,7 +13,7 @@ import (
 
 func main() {
 	// Create a new WebSocket client
-	client := ODINMarketFeed.ODINMarketFeedClient()
+	client := ODINMarketFeed.NewODINMarketFeedClient()
 
 	client.OnOpen = func() {
 		fmt.Println("✓ WebSocket connection established successfully")
