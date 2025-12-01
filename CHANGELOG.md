@@ -26,12 +26,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Type Safety**: Strongly typed structures and constants
 - **Error Handling**: Comprehensive error handling throughout
 
-### Documentation
-- Detailed README with API reference
-- Quick start guide
-- Multiple usage examples
-- Contributing guidelines
-- Publishing guide for maintainers
 
 [Unreleased]: https://github.com/SIPL-Dev/go-odinmarketfeedclient/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/SIPL-Dev/go-odinmarketfeedclient/releases/tag/v1.0.0
